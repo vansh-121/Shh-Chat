@@ -1,16 +1,30 @@
-# shh_chat
+# 🕵️ Shh-Chat (Anonymous Chat App) — Under Construction
 
-A new Flutter project.
+Welcome to **Shh-Chat** — a real-time, anonymous chat application where you can talk to strangers without revealing your identity. Inspired by platforms like Y99 and Omegle, this app focuses on simplicity, privacy, and fun interactions.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚧 Status: Under Construction
 
-A few resources to get you started if this is your first Flutter project:
+The app is currently in development. We are building out real-time messaging, user matching, and a completely anonymous chat experience. Stay tuned!
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 💡 Features (Planned)
+
+- 👥 Anonymous 1-on-1 chatting
+- ⚡ Real-time messaging using WebSockets or Firebase
+- 🕵️ No login, no personal data required
+- 🔄 Auto-match with random users
+- 🚫 Safe & filtered environment (to be added)
+
+---
+
+## 🛠️ Tech Stack
+
+- 🧱 **Frontend:** Flutter (cross-platform support)
+- 🔌 **Backend:** Firebase / WebSocket server (planned)
+- 💬 **Messaging:** Firebase Firestore / Realtime DB or custom WebSocket
+- 🔒 **Privacy:** Temporary session-based user IDs
+
+---
